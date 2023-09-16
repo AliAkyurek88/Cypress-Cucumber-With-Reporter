@@ -1,0 +1,92 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Incorrect login",
+    "line": 2,
+    "id": "incorrect-login",
+    "tags": [],
+    "uri": "03_incorrectLoginUser.feature",
+    "elements": [
+      {
+        "id": "incorrect-login;go-to-automationexercise.com,-enter-incorrect-email-address-and-password-and-login",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Go to automationexercise.com, enter incorrect email address and password and login",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Start to type your Given step here Navigate to url \"http://automationexercise.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 6773000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "Verify that home page is visible successfully",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "Click on \"Signup / Login\" button",
+            "result": {
+              "status": "passed",
+              "duration": 1493000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "Verify \"Login to your account\" is visible",
+            "result": {
+              "status": "passed",
+              "duration": 23000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "Enter incorrect email address and password",
+            "result": {
+              "status": "passed",
+              "duration": 716000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Click on login button",
+            "result": {
+              "status": "passed",
+              "duration": 1758000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "Verify error 'Your email or password is incorrect!' is visible",
+            "result": {
+              "status": "passed",
+              "duration": 27000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
