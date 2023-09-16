@@ -10,11 +10,6 @@ jobs:
       # and run all Cypress tests
       - name: Cypress run
         uses: cypress-io/github-action@v6
-        with:
-          working-directory: cypress
-          install-command: npm install
-          build: npm run build
-          start: npm start
 
       - name: Generate report
         run:  npm run cy:report
@@ -23,5 +18,5 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: cypress-cucumber-report
-          path: cypress/cucumber-report/
+          path: cypress/cucumber-report
      
