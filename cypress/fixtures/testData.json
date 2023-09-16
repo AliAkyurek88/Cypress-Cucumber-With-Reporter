@@ -1,0 +1,18 @@
+{
+  "name":"Test Example Name",
+  "email":"testexample@testx.com", 
+  "password":"1q2w3e4r",
+  "firstName":"F-Name",
+  "lastName":"L-Name",
+  "address":"Test Address",
+  "country":"Australia",
+  "state":"Test State",
+  "city":"Test City",
+  "zipcode":"11223344",
+  "mobileNumber":"555 454 54 54",
+  "nameOnCard":"Test Name",
+  "cardNumber":"1234567891011",
+  "cvc":"123",
+  "expirationM":"10",
+  "expirationY":"2030"
+}
