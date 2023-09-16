@@ -11,4 +11,12 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
 
+      - name: Generate report
+        run: cd cypress && npm run cy:report
+        
+      - name: Upload report
+        uses: actions/upload-artifact@v2
+        with:
+          name: cypress-cucumber-report
+          path: cypress/cucumber-report/
      
