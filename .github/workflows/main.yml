@@ -1,5 +1,8 @@
 name: End-to-end tests
-on: [push]
+on:
+   schedule:
+    - cron: 0 * * * *
+
 jobs:
   cypress-run:
     runs-on: ubuntu-22.04
@@ -13,7 +16,7 @@ jobs:
         uses: cypress-io/github-action@v5
         
       - name: Generate report
-        run: cd cypress && npm run cy:report
+        run:  cd cypress && npm run cy:report
       - name: Upload report
         uses: actions/upload-artifact@v2
         with:
