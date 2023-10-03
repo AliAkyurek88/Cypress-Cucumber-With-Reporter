@@ -22,7 +22,7 @@
             "name": "Navigate to url \"https://automationexercise.com\"",
             "result": {
               "status": "passed",
-              "duration": 6691000000
+              "duration": 5782000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Verify that home page is visible successfully",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 20000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Click on \"Signup / Login\" button",
             "result": {
               "status": "passed",
-              "duration": 1240000000
+              "duration": 973000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "Verify \"New User Signup!\" is visible",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 21000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "Enter name and email address",
             "result": {
               "status": "passed",
-              "duration": 748000000
+              "duration": 762000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "Click Signup button",
             "result": {
               "status": "passed",
-              "duration": 1219000000
+              "duration": 878000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "Verify that \"Enter Account Information\" is visible",
             "result": {
               "status": "passed",
-              "duration": 144000000
+              "duration": 138000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "Fill details: Title, Name, Email, Password, Date of birth",
             "result": {
               "status": "passed",
-              "duration": 1322000000
+              "duration": 1375000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "Select checkbox Sign up for our newsletter!",
             "result": {
               "status": "passed",
-              "duration": 114000000
+              "duration": 126000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "Select checkbox Receive special offers from our partners!",
             "result": {
               "status": "passed",
-              "duration": 117000000
+              "duration": 118000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number",
             "result": {
               "status": "passed",
-              "duration": 2669000000
+              "duration": 3589000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "Click on \"Create Account\" button",
             "result": {
               "status": "passed",
-              "duration": 3789000000
+              "duration": 3666000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "Verify that \"Account Created!\" is visible",
             "result": {
               "status": "passed",
-              "duration": 145000000
+              "duration": 183000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "Click on \"Continue\" button",
             "result": {
               "status": "passed",
-              "duration": 4465000000
+              "duration": 6551000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "Verify that Logged in as username \"Test Name\" is visible",
             "result": {
               "status": "passed",
-              "duration": 88000000
+              "duration": 74000000
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "Click on \"Delete Account\" button",
             "result": {
               "status": "passed",
-              "duration": 1743000000
+              "duration": 1953000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "Verify that \"Account Deleted!\" is visible",
             "result": {
               "status": "passed",
-              "duration": 258000000
+              "duration": 333000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "Click on \"Continue\" button",
             "result": {
               "status": "passed",
-              "duration": 2679000000
+              "duration": 4154000000
             }
           }
         ]

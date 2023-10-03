@@ -1,8 +1,8 @@
 name: End-to-end tests
 
-on: #Push
-   schedule:
-    - cron: 0 * * * *
+on: [push]
+   #schedule:
+    #- cron: 0 * * * *
 
 jobs:
   cypress-run:
