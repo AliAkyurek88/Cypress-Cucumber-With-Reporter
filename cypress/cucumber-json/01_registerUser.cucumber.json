@@ -1,0 +1,202 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Register User",
+    "line": 1,
+    "id": "register-user",
+    "tags": [],
+    "uri": "01_registerUser.feature",
+    "elements": [
+      {
+        "id": "register-user;go-to-automationexercise.com-and-register-user",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Go to automationexercise.com and register user",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "Navigate to url \"https://automationexercise.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 6691000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "Verify that home page is visible successfully",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "Click on \"Signup / Login\" button",
+            "result": {
+              "status": "passed",
+              "duration": 1240000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "Verify \"New User Signup!\" is visible",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "Enter name and email address",
+            "result": {
+              "status": "passed",
+              "duration": 748000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "Click Signup button",
+            "result": {
+              "status": "passed",
+              "duration": 1219000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Verify that \"Enter Account Information\" is visible",
+            "result": {
+              "status": "passed",
+              "duration": 144000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "Fill details: Title, Name, Email, Password, Date of birth",
+            "result": {
+              "status": "passed",
+              "duration": 1322000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "Select checkbox Sign up for our newsletter!",
+            "result": {
+              "status": "passed",
+              "duration": 114000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 14,
+            "name": "Select checkbox Receive special offers from our partners!",
+            "result": {
+              "status": "passed",
+              "duration": 117000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Fill details: First name, Last name, Company, Address, Address2, Country, State, City, Zipcode, Mobile Number",
+            "result": {
+              "status": "passed",
+              "duration": 2669000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "Click on \"Create Account\" button",
+            "result": {
+              "status": "passed",
+              "duration": 3789000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "Verify that \"Account Created!\" is visible",
+            "result": {
+              "status": "passed",
+              "duration": 145000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "Click on \"Continue\" button",
+            "result": {
+              "status": "passed",
+              "duration": 4465000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "Verify that Logged in as username \"Test Name\" is visible",
+            "result": {
+              "status": "passed",
+              "duration": 88000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "Click on \"Delete Account\" button",
+            "result": {
+              "status": "passed",
+              "duration": 1743000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "Verify that \"Account Deleted!\" is visible",
+            "result": {
+              "status": "passed",
+              "duration": 258000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "Click on \"Continue\" button",
+            "result": {
+              "status": "passed",
+              "duration": 2679000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

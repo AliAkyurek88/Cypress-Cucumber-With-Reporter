@@ -1,5 +1,6 @@
 name: End-to-end tests
-on:
+
+on: #Push
    schedule:
     - cron: 0 * * * *
 
